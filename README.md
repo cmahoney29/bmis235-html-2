@@ -1,7 +1,7 @@
 # BMIS 235 · HTML-2 · Embedding: Mind, Body, Craft
 
 **Name:** YOUR NAME
-**GU username:** YOUR-GU-USERNAME
+**GU username:** Callum Mahoney
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-2/
 
